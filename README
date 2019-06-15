@@ -1,5 +1,12 @@
-1. Read images to store data as pickle
-2. Reduce dimensionality
-3. Classification
+
+1. Preprocess images 
+2. Read images to store data as pickle
+3. Reduce dimensionality
+4. Classification
 
 Data augmentation is optional
+
+Dependecies: 
+  python==3
+  opencv2==4.1.0
+  scikit-learn==0.20.3
