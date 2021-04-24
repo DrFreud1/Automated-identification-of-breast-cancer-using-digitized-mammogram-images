@@ -1,3 +1,4 @@
+The following projects aims to classify digitized mammogram images in three different groups: Normal, Benign and Malign Tumors. The process goes through the following steps:
 
 1. Preprocess images 
 2. Read images to store data as pickle
